@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d2d2d;
+}
+.themeWrapper {
+    padding: 5px 50px 5px 7px;
+    border: 1px solid black;
+    margin-bottom: 2px;
+    border-radius: 8px;
+}
+
+.pinkWrapper {
+    background: linear-gradient(90deg, pink, white);
+}
+.grayWrapper {
+    background: linear-gradient(90deg, gray, white);
+}
+.whiteWrapper {
+    background: linear-gradient(90deg, #E5F0FF, white);
+}
+.greenWrapper {
+    background: linear-gradient(90deg, green, white);
+}
+.redWrapper {
+    background: linear-gradient(90deg, red, white);
+}
+.yellowWrapper {
+    background: linear-gradient(90deg, yellow, white);
+}
+.blueWrapper {
+    background: linear-gradient(90deg, blue, white);
+}
+.blackWrapper {
+    background: linear-gradient(90deg, black, white);
+}
+.brownWrapper {
+    background: linear-gradient(90deg, brown, white);
+}
+.purpleWrapper {
+    background: linear-gradient(90deg, purple, white);
+}
